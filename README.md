@@ -3,8 +3,9 @@
 
 ### Education
 Computer Science
+
 Civil Engineering
 
-### Work EXperience
+### Work Experience
 
 ### Projects
